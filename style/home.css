@@ -1,0 +1,32 @@
+.box_container {
+  width: 35%;
+  height: 60px;
+  border: 1px solid black;
+  background-color: rebeccapurple;
+  position: relative;
+}
+.box_container .box {
+  height: 60px;
+  width: 60px;
+  background-color: aqua;
+  left: 0%;
+  position: absolute;
+}
+
+.slowBtn {
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin-top: 20px;
+  color: white;
+  font-size: x-large;
+  background-color: #0e3202;
+}
+
+.fastBtn {
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin-top: 20px;
+  color: white;
+  font-size: x-large;
+  background-color: #0e3202;
+}/*# sourceMappingURL=home.css.map */
